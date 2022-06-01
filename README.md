@@ -9,12 +9,10 @@ $ git branch -M main
 $ git remote add origin https://github.com/YuttanaSRMUTT/git_demo_2.git
 $ git push -u origin main
 ```
-XXXX_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_XXXX
-
 ```
 $ git add .
 $ git status
-$ git commit -m "2nd"
+$ git commit -m "2nd" OR git commit -a -m "2nd"
 git remote add origin https://github.com/YuttanaSRMUTT/git_demo_2.git
 ```
 
