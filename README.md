@@ -17,7 +17,7 @@ $ git push
 ```
 
 ```
-$ commit -a -m "2nd"
+$ commit -a -m "3rd"
 $ git push 
 ```
 
