@@ -26,13 +26,24 @@ $ git push
 # git configuration
 
 ## Show the configuration
+```
 git config --global --list
 git config --list
+```
 
 ## Set git username and email globally
+```
 git config --global --list
 git config --global user.name "YuttanaS"
 git config --global user.email "yuttana.s.rmutt@gmail.com"
+```
+
+## Git Ignored
+* สร้าง Files .gitignore
+* เพิ่มนามสกุล File ที่เราจะไม่สนใจ Upload
+* *.log คือชื่อ Files
+* bin/ คือชื่อ Folder
+* add files .gitignore เข้าไปใน directory
 
 
 
