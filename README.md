@@ -17,7 +17,7 @@ $ git push
 ```
 
 ```
-$ commit -a -m "3rd"
+$ git commit -a -m "3rd"
 $ git push 
 ```
 
@@ -44,6 +44,8 @@ git config --global user.email "yuttana.s.rmutt@gmail.com"
 * *.log คือชื่อ Files
 * bin/ คือชื่อ Folder
 * add files .gitignore เข้าไปใน directory
+* ```$ git add . ```
+* ```$ git commit -a -m "4th" ```
 
 
 
