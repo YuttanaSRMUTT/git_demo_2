@@ -47,5 +47,7 @@ git config --global user.email "yuttana.s.rmutt@gmail.com"
 * ```$ git add . ```
 * ```$ git commit -a -m "4th" ```
 
+![](./git_picture/9_git_gitignore.png)
 
 
+<!-- 4:21 / 6:49 -->
