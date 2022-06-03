@@ -113,3 +113,7 @@ $ git branch -D [branch-name]
 ```
 $ git merge feature
 ```
+
+### git tag
+![](./git_picture/14_git_tag.png)
+
