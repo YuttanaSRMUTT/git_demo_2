@@ -64,4 +64,43 @@ $ git clean -dfx
 ![](./git_picture/9_git_clean.png)
 
 ### git push ansd pull
+![](./git_picture/10_git_push_pull_present.png)
+
+
+### git Merge Conflict
+```
+```
+
+### git Branch
+![](./git_picture/11_git_branch_present.png)
+
+* List all branches
+    ``` 
+    $ git branch 
+    ```
+* Create branch
+    ```
+    $ git branch [branch-name]
+    ```
+* Switch branch
+    ```
+    git checkout [branch-name]
+    ```
+* Create and switch branch
+    ```
+    git checkout -b [branch-name]
+    ```
+* Delete branch
+    ```
+    git branch -d [branch-name]
+    ```
+
+```
+$ git branch
+$ git branch [branch-name]
+$ git checkout [branch-name]
+$ git checkout -b [branch-name]
+$ git branch -d [branch-name]
+
+```
 
