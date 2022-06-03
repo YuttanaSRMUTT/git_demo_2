@@ -117,3 +117,32 @@ $ git merge feature
 ### git tag
 ![](./git_picture/14_git_tag.png)
 
+* show all tags
+    ```
+    $ git tag
+    ```
+* create tag named v1.0
+    ```
+    $ git tag v1.0
+    ```
+* delete tag v1.0
+    ```
+    $ git tag -d v1.0
+    ```
+* load file of tag v1.0
+    ```
+    $ git checkout v1.0 
+    ```
+* push tag v1.0 to origin server
+    ```
+    $ git push origin v1.0
+    ```
+* delete tag v1.0 in origin server
+    ```
+    $ git push -d origin v1.0
+    ```
+
+### git tag
+
+  
+
