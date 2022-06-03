@@ -73,7 +73,7 @@ $ git clean -dfx
 ```
 
 ### git Branch
-![](./git_picture/11_git_branch_present.png)
+![](./git_picture/12_git_branch.png)
 
 * List all branches
     ``` 
