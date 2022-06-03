@@ -105,3 +105,9 @@ $ git branch -d [branch-name]
 
 ```
 
+
+#### Merge Branch
+![](./git_picture/11_git_merge.png)
+
+```
+```
