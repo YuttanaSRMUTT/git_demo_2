@@ -9,14 +9,14 @@ $ git branch -M main
 $ git remote add origin https://github.com/YuttanaSRMUTT/git_demo_2.git
 $ git push -u origin main
 ```
-# __ตอนนี้เครื่องเราทำได้แบบนี้ (VSCODE)__
+# __ตอนนี้เครื่องเราทำได้ (VSCODE)__
 ```
 $ git add .
 $ git status
 $ git commit -m "2nd"
 $ git push 
 ```
-### __ยังทำแบบด้านล่างไม่ได้ (VSCODE)__
+# __ตอนนี้เครื่องเราก็ทำได้ (VSCODE)__
 ```
 $ git commit -a -m "3rd"
 $ git push 
