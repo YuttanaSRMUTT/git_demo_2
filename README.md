@@ -111,4 +111,5 @@ $ git branch -D [branch-name]
 ![](./git_picture/11_git_merge.png)
 
 ```
+$ git merge feature
 ```
