@@ -12,7 +12,7 @@ $ git push -u origin main
 ```
 $ git add .
 $ git status
-$ git commit -m "2nd" OR git commit -a -m "2nd"
+$ git commit -m "2nd"
 $ git push 
 ```
 
