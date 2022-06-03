@@ -16,7 +16,7 @@ $ git status
 $ git commit -m "2nd"
 $ git push 
 ```
-# __ตอนนี้เครื่องเราก็ทำได้ (VSCODE)__
+# __ตอนนี้เครื่องเรายังทำไม่ได้ (VSCODE)__
 ```
 $ git commit -a -m "3rd"
 $ git push 
