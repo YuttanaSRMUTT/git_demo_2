@@ -27,19 +27,19 @@ $ git push
 
 ## Show the configuration
 ```
-git config --global --list
-git config --list
+$ git config --global --list
+$ git config --list
 ```
 
 ## Set git username and email globally
 ```
-git config --global --list
-git config --global user.name "YuttanaS"
-git config --global user.email "yuttana.s.rmutt@gmail.com"
+$ git config --global --list
+$ git config --global user.name "YuttanaS"
+$ git config --global user.email "yuttana.s.rmutt@gmail.com"
 ```
 
 ## Git Ignored
-* สร้าง Files .gitignore
+* สร้าง Files [.gitignore](https://github.com/github/gitignore)
 * เพิ่มนามสกุล File ที่เราจะไม่สนใจ Upload
 * *.log คือชื่อ Files
 * bin/ คือชื่อ Folder
@@ -50,4 +50,18 @@ git config --global user.email "yuttana.s.rmutt@gmail.com"
 ![](./git_picture/9_git_gitignore.png)
 
 
-<!-- 4:21 / 6:49 -->
+## ทดสอบการใช้ gitignore 
+```
+$ npm init -y
+$ npm i express
+```
+* program npm จะ Downlosd node_modules เข้ามาใน Directory ซึ่งจะเป็น Directory ที่เราจะทดสอบ
+* ขั้นตอนการ Clean data ที่ไม่ต้องการใข้งานให้พิมพ์ ระบบ git จะทำการลบ files หรือ folder ที่ระบุไว้ใน `.gitignore`
+
+``` 
+$ git clean -dfx
+```
+![](./git_picture/9_git_clean.png)
+
+### git push ansd pull
+
