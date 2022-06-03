@@ -8,3 +8,4 @@ add new feature 1
 
 
 v0.0
+v1.0
